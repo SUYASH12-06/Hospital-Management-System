@@ -18,7 +18,5 @@ A simple **console-based Hospital Management System** built with **Java** and **
 - **JDBC**
 - **IntelliJ IDEA**
 
----
 
-## Project Structure
 
